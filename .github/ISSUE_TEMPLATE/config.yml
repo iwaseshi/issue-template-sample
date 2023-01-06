@@ -2,7 +2,7 @@ contact_links:
   - name: Feature Template
     about: 機能追加/修正を行うIssueに使用するテンプレート
     labels: feature
-    url: https://github.com/iwaseshi/issue-template-sample/issues/new?template=feature_template.md&projects=poc&labels=feature
+    url: https://github.com/iwaseshi/issue-template-sample/issues/new?template=feature_template.md&projects=iwaseshi/1&labels=feature
   - name: Bug Template
     about: バグの報告に使用するテンプレート
     labels: bug
