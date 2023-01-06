@@ -6,4 +6,4 @@ contact_links:
   - name: Bug Template
     about: バグの報告に使用するテンプレート
     labels: bug
-    url: https://github.com/iwaseshi/issue-template-sample/issues/new?template=bug_template.md&projects=orgs/iwaseshi/projects/1&labels=bug
+    url: https://github.com/iwaseshi/issue-template-sample/issues/new?template=bug_template.md&projects=iwaseshi/projects/1&labels=bug
