@@ -21,7 +21,7 @@
 
 ### 環境
 
-tera-four-prod などを記述する
+dev, stg, prod... などを記述する
 
 ### OS/ブラウザ
 
